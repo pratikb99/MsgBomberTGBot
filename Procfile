@@ -1,1 +1,0 @@
-Bomber:python main.py
