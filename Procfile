@@ -1,1 +1,1 @@
-Bomber:python main.py
+Work:python main.py
